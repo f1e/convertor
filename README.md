@@ -3,6 +3,8 @@
 An easy to use PHP unit conversion library.
 
 Full documentation & demos can be found at: [http://olifolkerd.github.io/convertor](http://olifolkerd.github.io/convertor)
+# Warning 
+This is a fork of original convertor package by `olifolkerd`. I have released latest changes into 2.0 package to achieve "stable" dependency. This package has also been published to packagist, so if you intend to use original source code, make sure you follow exact setup steps.
 
 Convertor 
 ================================
